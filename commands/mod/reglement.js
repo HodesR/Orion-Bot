@@ -19,7 +19,7 @@ module.exports = {
         .addField("Voici le réglement discord (TOS) à respecter : " ,'https://discord.com/terms')
         .setURL("https://discord.com/privacy")
         .setThumbnail("https://cdn.discordapp.com/attachments/833677726002315346/833691758432354344/Naruto_Pictures_Memes_and_Gifs_-_Sasuke_Uchiha_gifs.gif")
-        .setFooter(message.client.user.username, message.client.user.avatarURL({ dynamic: on }))
+        .setFooter(message.client.user.username, message.client.user.avatarURL({ dynamic: true }))
         
         )}
 }
