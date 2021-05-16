@@ -8,7 +8,7 @@ module.exports = {
         syntax: '<Nombre de message>'
     },
 
-    async run(message, args) {
+    async run(client, message, args) {
         message.delete();
         if(!args[0]) return message.reply("**Entre le nombre de messages que tu veux clear !**");
         if(isNaN(args[0])) return message.reply("**Entre un vrai numéro !**");
