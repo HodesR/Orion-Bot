@@ -9,9 +9,9 @@ module.exports = {
 
             .addField("<a:823538178622488616:840201003248255027> ┋ __Divertissement__", "`anonymous`, `fbi`, `poutine`, `trump`, `macron`, `cheh`, `meme`, `coinflip`, `issou`, `covid`, `8ball`, `nitro`, `panda`, `koala`, `fox`, `cat`, `dog`")
 
-            .addField(" ┋ __NSFW__", "`hentai`, `boobs`, `hentai2`, `waifu`, `ass`, `wallpaper`")
+            .addField(" ┋ __NSFW__", "`hentai`, `boobs`, `4k`, `waifu`, `ass`, `wallpaper`")
 
-            .addField("<:816750102881370203:840196254675107879> ┋ __Général__", "`help`, `invite`, `embed`,  `img`,  `ui`, `serv-info`, `sondage`, `about`,`ascii`, `reversetext`, `pic`, `fortnite`, `rdm-number`")
+            .addField("<:816750102881370203:840196254675107879> ┋ __Général__", "`help`, `embed`, `img`, `user-info`, `server-info`, `sondage`, `about`,`ascii`, `reversetext`, `pic`, `rdm-number`")
 
             .setThumbnail("https://images-ext-2.discordapp.net/external/O6jtAPBG6KpwR-rwj8JdtNpsDW90FD3Pt60HxQjWC_4/https/media.discordapp.net/attachments/833810455419682826/839130930693537832/MOSHED-2021-5-3-14-26-1.gif")
             .setFooter(message.client.username, message.client.user.avatarURL({ dynamic: true}))
