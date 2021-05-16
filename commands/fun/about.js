@@ -6,7 +6,7 @@ module.exports = {
         dynamic: true
     }))
         .setTitle("Informations sur " + `>Orion' de la charité `)
-        .addField('**Développeur :**', `>Hodés'CP-0#0213`, true)
+        .addField('**Développeur :**', `Hodés#0007`, true)
         .addField("**📂 Version de discord.js :**", `v12.2.0`, true)
         .addField("**Lien d'invitation :**", "[**Cliquez ici**](https://discord.com/api/oauth2/authorize?client_id=832945533583753255&permissions=8&scope=bot)", true)
 
